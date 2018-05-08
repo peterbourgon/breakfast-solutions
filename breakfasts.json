@@ -1,0 +1,74 @@
+[
+    {
+        "id": 5424,
+        "name": "French toast",
+        "description": "And eggs and sausages! This is looking pretty good.",
+        "image": "/images/11855393546_7eaa945ba7_o.jpg"
+    },
+    {
+        "id": 8048,
+        "name": "Juice and coffee and some kind of cheesy thing",
+        "description": "Look how nicely it's all arranged. Practically Instagram-worthy.",
+        "image": "/images/14419029768_abd13147bc_o.jpg"
+    },
+    {
+        "id": 7568,
+        "name": "Cereal and coffee",
+        "description": "On second thought, are you sure that's not cola?",
+        "image": "/images/14629779054_b7596fe590_o.jpg"
+    },
+    {
+        "id": 9415,
+        "name": "American Breakfast",
+        "description": "I can feel my arteries clogging from over here.",
+        "image": "/images/38749642194_1de4dbca83_o.jpg"
+    },
+    {
+        "id": 8283,
+        "name": "Strawberries and pancakes",
+        "description": "Go ahead, you deserve it. Maybe. Probably.",
+        "image": "/images/5011557502_b0fccc3f25_o.jpg"
+    },
+    {
+        "id": 6612,
+        "name": "Bread, bread, and OJ",
+        "description": "What is this, France?",
+        "image": "/images/5868700397_86079c3e81_o.jpg"
+    },
+    {
+        "id": 7094,
+        "name": "Ham and an egg and stuff",
+        "description": "There's some cheese, too, and a little plastic pitcher. I guess it's alright.",
+        "image": "/images/6476002779_bcd8cd3e3e_o.jpg"
+    },
+    {
+        "id": 4416,
+        "name": "Beans!!!",
+        "description": "Beans and eggs, beans and eggs, and some blueberries too?",
+        "image": "/images/7478700064_62511fbcac_o.jpg"
+    },
+    {
+        "id": 9110,
+        "name": "Eggs and peppers",
+        "description": "It looks like someone put some fancy paprikas on the eggs, too.",
+        "image": "/images/8100785650_a1cfc0fcf2_o.jpg"
+    },
+    {
+        "id": 4876,
+        "name": "Fruit and bread",
+        "description": "There's some cucumber slices, and half of an egg.",
+        "image": "/images/8189091693_d824d68a12_o.jpg"
+    },
+    {
+        "id": 4071,
+        "name": "Bagels and some yogurt",
+        "description": "Continental breakfast at a bad hotel.",
+        "image": "/images/826820181_36f4f46a0b_o.jpg"
+    },
+    {
+        "id": 6473,
+        "name": "Eggs on rice",
+        "description": "I think there's some katsu sauce on it, too? Yum.",
+        "image": "/images/8627912241_9ed2d84477_o.jpg"
+    }
+]
